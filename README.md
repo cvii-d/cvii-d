@@ -13,6 +13,6 @@ Tableau & Looker assisted me to build small pieces of the big puzzle, but there 
 Reach out if you want to talk about data, analytics, AI, or books.
 
 
-## My SKills & Tools I love
+## My Skills & Tools I love
 
 SQL • AI • Machine Learning • Python • Tableau • Looker • Statistics • Data Governance • Tracking    
